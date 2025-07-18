@@ -1,0 +1,19 @@
+.ilmoitus {
+  color: green;
+  background: #d4edda;
+  font-size: 20px;
+  border: 2px solid green;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.virhe {
+  color: red;
+  background: #f8d7da;
+  font-size: 20px;
+  border: 2px solid red;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
